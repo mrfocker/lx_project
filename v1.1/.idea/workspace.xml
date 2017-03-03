@@ -26,62 +26,46 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
+            <state relative-caret-position="423">
               <caret line="220" column="7" selection-start-line="220" selection-start-column="7" selection-end-line="220" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="课程简介.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/课程简介.html">
+      <file leaf-file-name="课程规划.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/课程规划.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="155" column="116" selection-start-line="155" selection-start-column="116" selection-end-line="155" selection-end-column="116" />
+            <state relative-caret-position="334">
+              <caret line="257" column="20" selection-start-line="257" selection-start-column="15" selection-end-line="257" selection-end-column="20" />
               <folding>
-                <element signature="e#4138#4144#0" expanded="true" />
-                <element signature="e#4144#4150#0" expanded="true" />
-                <element signature="e#4150#4156#0" expanded="true" />
-                <element signature="e#4156#4162#0" expanded="true" />
-                <element signature="e#4162#4168#0" expanded="true" />
-                <element signature="e#4168#4174#0" expanded="true" />
-                <element signature="e#4174#4180#0" expanded="true" />
-                <element signature="e#4180#4186#0" expanded="true" />
-                <element signature="e#4460#4466#0" expanded="true" />
-                <element signature="e#4466#4472#0" expanded="true" />
-                <element signature="e#4472#4478#0" expanded="true" />
-                <element signature="e#4478#4484#0" expanded="true" />
-                <element signature="e#4484#4490#0" expanded="true" />
-                <element signature="e#4490#4496#0" expanded="true" />
-                <element signature="e#4496#4502#0" expanded="true" />
-                <element signature="e#4502#4508#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="历史沿革.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/历史沿革.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="155" column="56" selection-start-line="155" selection-start-column="8" selection-end-line="155" selection-end-column="56" />
-              <folding>
-                <element signature="e#4122#4128#0" expanded="true" />
-                <element signature="e#4128#4134#0" expanded="true" />
-                <element signature="e#4134#4140#0" expanded="true" />
-                <element signature="e#4140#4146#0" expanded="true" />
-                <element signature="e#4146#4152#0" expanded="true" />
-                <element signature="e#4152#4158#0" expanded="true" />
-                <element signature="e#4158#4164#0" expanded="true" />
-                <element signature="e#4164#4170#0" expanded="true" />
-                <element signature="e#4545#4551#0" expanded="true" />
-                <element signature="e#4551#4557#0" expanded="true" />
-                <element signature="e#4557#4563#0" expanded="true" />
-                <element signature="e#4563#4569#0" expanded="true" />
-                <element signature="e#4569#4575#0" expanded="true" />
-                <element signature="e#4575#4581#0" expanded="true" />
-                <element signature="e#4581#4587#0" expanded="true" />
-                <element signature="e#4587#4593#0" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#3848#3855#0" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#6291#6297#0" expanded="true" />
+                <element signature="e#6297#6303#0" expanded="true" />
+                <element signature="e#6303#6309#0" expanded="true" />
+                <element signature="e#9098#9104#1" expanded="true" />
+                <element signature="e#9196#9202#1" expanded="true" />
+                <element signature="e#9301#9307#1" expanded="true" />
+                <element signature="e#10861#10867#1" expanded="true" />
+                <element signature="e#10959#10965#1" expanded="true" />
+                <element signature="e#11064#11070#1" expanded="true" />
+                <element signature="e#12703#12709#1" expanded="true" />
+                <element signature="e#12801#12807#1" expanded="true" />
+                <element signature="e#12906#12912#1" expanded="true" />
+                <element signature="e#14544#14550#1" expanded="true" />
+                <element signature="e#14642#14648#1" expanded="true" />
+                <element signature="e#14747#14753#1" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#15740#15746#0" expanded="true" />
+                <element signature="e#15757#15763#0" expanded="true" />
+                <element signature="e#15853#15861#0" expanded="true" />
+                <element signature="e#15861#15869#0" expanded="true" />
+                <element signature="e#15869#15877#0" expanded="true" />
+                <element signature="e#15877#15885#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,8 +74,8 @@
       <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4872">
-              <caret line="2826" column="29" selection-start-line="2826" selection-start-column="29" selection-end-line="2826" selection-end-column="29" />
+            <state relative-caret-position="840">
+              <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -109,9 +93,10 @@
         <option value="$PROJECT_DIR$/教学队伍.html" />
         <option value="$PROJECT_DIR$/网络学堂.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/历史沿革.html" />
         <option value="$PROJECT_DIR$/css.css" />
         <option value="$PROJECT_DIR$/课程简介.html" />
+        <option value="$PROJECT_DIR$/历史沿革.html" />
+        <option value="$PROJECT_DIR$/课程规划.html" />
       </list>
     </option>
   </component>
@@ -262,12 +247,12 @@
       <workItem from="1488170483901" duration="3759000" />
       <workItem from="1488177422957" duration="4434000" />
       <workItem from="1488439208160" duration="1368000" />
-      <workItem from="1488508110308" duration="2567000" />
+      <workItem from="1488508110308" duration="9930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12128000" />
+    <option name="totallyTimeSpent" value="19491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -275,7 +260,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24833998" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -407,68 +392,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4872">
-          <caret line="2826" column="29" selection-start-line="2826" selection-start-column="29" selection-end-line="2826" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
+        <state relative-caret-position="423">
           <caret line="220" column="7" selection-start-line="220" selection-start-column="7" selection-end-line="220" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/历史沿革.html">
+    <entry file="file://$PROJECT_DIR$/css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="155" column="56" selection-start-line="155" selection-start-column="8" selection-end-line="155" selection-end-column="56" />
-          <folding>
-            <element signature="e#4122#4128#0" expanded="true" />
-            <element signature="e#4128#4134#0" expanded="true" />
-            <element signature="e#4134#4140#0" expanded="true" />
-            <element signature="e#4140#4146#0" expanded="true" />
-            <element signature="e#4146#4152#0" expanded="true" />
-            <element signature="e#4152#4158#0" expanded="true" />
-            <element signature="e#4158#4164#0" expanded="true" />
-            <element signature="e#4164#4170#0" expanded="true" />
-            <element signature="e#4545#4551#0" expanded="true" />
-            <element signature="e#4551#4557#0" expanded="true" />
-            <element signature="e#4557#4563#0" expanded="true" />
-            <element signature="e#4563#4569#0" expanded="true" />
-            <element signature="e#4569#4575#0" expanded="true" />
-            <element signature="e#4575#4581#0" expanded="true" />
-            <element signature="e#4581#4587#0" expanded="true" />
-            <element signature="e#4587#4593#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="840">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/课程简介.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="155" column="116" selection-start-line="155" selection-start-column="116" selection-end-line="155" selection-end-column="116" />
+        <state relative-caret-position="315">
+          <caret line="167" column="10" selection-start-line="167" selection-start-column="10" selection-end-line="167" selection-end-column="10" />
           <folding>
-            <element signature="e#4138#4144#0" expanded="true" />
-            <element signature="e#4144#4150#0" expanded="true" />
-            <element signature="e#4150#4156#0" expanded="true" />
-            <element signature="e#4156#4162#0" expanded="true" />
-            <element signature="e#4162#4168#0" expanded="true" />
-            <element signature="e#4168#4174#0" expanded="true" />
-            <element signature="e#4174#4180#0" expanded="true" />
-            <element signature="e#4180#4186#0" expanded="true" />
-            <element signature="e#4460#4466#0" expanded="true" />
-            <element signature="e#4466#4472#0" expanded="true" />
-            <element signature="e#4472#4478#0" expanded="true" />
-            <element signature="e#4478#4484#0" expanded="true" />
-            <element signature="e#4484#4490#0" expanded="true" />
-            <element signature="e#4490#4496#0" expanded="true" />
-            <element signature="e#4496#4502#0" expanded="true" />
-            <element signature="e#4502#4508#0" expanded="true" />
+            <element signature="e#4461#4467#0" expanded="true" />
+            <element signature="e#4467#4473#0" expanded="true" />
+            <element signature="e#4473#4479#0" expanded="true" />
+            <element signature="e#4479#4485#0" expanded="true" />
+            <element signature="e#4485#4491#0" expanded="true" />
+            <element signature="e#4491#4497#0" expanded="true" />
+            <element signature="e#4497#4503#0" expanded="true" />
+            <element signature="e#4503#4509#0" expanded="true" />
+            <element signature="e#4739#4745#0" expanded="true" />
+            <element signature="e#4745#4751#0" expanded="true" />
+            <element signature="e#4751#4757#0" expanded="true" />
+            <element signature="e#4757#4763#0" expanded="true" />
+            <element signature="e#4763#4769#0" expanded="true" />
+            <element signature="e#4769#4775#0" expanded="true" />
+            <element signature="e#4775#4781#0" expanded="true" />
+            <element signature="e#4781#4787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/历史沿革.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
+          <folding>
+            <element signature="e#4570#4576#0" expanded="true" />
+            <element signature="e#4576#4582#0" expanded="true" />
+            <element signature="e#4869#4875#0" expanded="true" />
+            <element signature="e#4875#4881#0" expanded="true" />
+            <element signature="e#4881#4887#0" expanded="true" />
+            <element signature="e#4887#4893#0" expanded="true" />
+            <element signature="e#4893#4899#0" expanded="true" />
+            <element signature="e#4899#4905#0" expanded="true" />
+            <element signature="e#4905#4911#0" expanded="true" />
+            <element signature="e#4911#4917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课程规划.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="257" column="20" selection-start-line="257" selection-start-column="15" selection-end-line="257" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3848#3855#0" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#6291#6297#0" expanded="true" />
+            <element signature="e#6297#6303#0" expanded="true" />
+            <element signature="e#6303#6309#0" expanded="true" />
+            <element signature="e#9098#9104#1" expanded="true" />
+            <element signature="e#9196#9202#1" expanded="true" />
+            <element signature="e#9301#9307#1" expanded="true" />
+            <element signature="e#10861#10867#1" expanded="true" />
+            <element signature="e#10959#10965#1" expanded="true" />
+            <element signature="e#11064#11070#1" expanded="true" />
+            <element signature="e#12703#12709#1" expanded="true" />
+            <element signature="e#12801#12807#1" expanded="true" />
+            <element signature="e#12906#12912#1" expanded="true" />
+            <element signature="e#14544#14550#1" expanded="true" />
+            <element signature="e#14642#14648#1" expanded="true" />
+            <element signature="e#14747#14753#1" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#15740#15746#0" expanded="true" />
+            <element signature="e#15757#15763#0" expanded="true" />
+            <element signature="e#15853#15861#0" expanded="true" />
+            <element signature="e#15861#15869#0" expanded="true" />
+            <element signature="e#15869#15877#0" expanded="true" />
+            <element signature="e#15877#15885#0" expanded="true" />
           </folding>
         </state>
       </provider>
