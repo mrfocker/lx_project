@@ -3157,5 +3157,19 @@ background: url(images/active.png) no-repeat bottom;
 
 .pargraph{
     line-height: 30px;
-    font-size: 13px;
+    font-size: 14px;
+}
+
+.pagetitle {
+    font-size: 15px;
+    font-weight: bold;
+    color: #425294;
+}
+
+.caption {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000066;
+    margin-top: 12px;
+    text-align: center;
 }
