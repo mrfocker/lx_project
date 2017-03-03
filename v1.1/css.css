@@ -3169,3 +3169,8 @@ background: url(images/active.png) no-repeat bottom;
 	border: solid 1px #303030;
 	border-radius:3px;
 }
+
+.pargraph{
+    line-height: 30px;
+    font-size: 13px;
+}
