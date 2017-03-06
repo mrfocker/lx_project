@@ -7,7 +7,7 @@ button {  width: auto; overflow: visible; }
 .ie7 img { -ms-interpolation-mode: bicubic; }
 .ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
 .hidden { display: none; visibility: hidden; }
-.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+.visuallyhidden { border: 0 !important; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
 .visuallyhidden.focusable:active, .visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
 .invisible { visibility: hidden; }
 /* Clear Fix
@@ -161,7 +161,7 @@ body a{
     -moz-border-right-colors: none;
     -moz-border-top-colors: none;
     background: #edece8 url(images/featured_bg.gif);
-    border: 1px solid #c6c6c3;
+    border: 1px solid #c6c6c3 !important;
     box-shadow: 1px 1px 1px #FFFFFF inset;
     color: #444444;
     font-family: Arial,Helvetica,sans-serif;
@@ -3166,6 +3166,11 @@ background: url(images/active.png) no-repeat bottom;
     color: #425294;
 }
 
+.secendtitle{
+	font-size: 14px;
+	font-weight: bold;
+	color: #4b6694;
+}
 .caption {
     font-size: 18px;
     font-weight: bold;
@@ -3173,3 +3178,4 @@ background: url(images/active.png) no-repeat bottom;
     margin-top: 12px;
     text-align: center;
 }
+
