@@ -3178,3 +3178,7 @@ background: url(images/active.png) no-repeat bottom;
     margin-top: 12px;
     text-align: center;
 }
+#Table4 td{
+	font-size: 14px;
+	vertical-align: top;
+}
