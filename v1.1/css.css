@@ -2501,7 +2501,14 @@ form h2 {
 }
 
 .category-info .image {
-    float: left;
+     float: left;
+     padding: 5px;
+     margin-right: 15px;
+
+ }
+
+.category-info .imageother {
+    float: right;
     padding: 5px;
     margin-right: 15px;
 
